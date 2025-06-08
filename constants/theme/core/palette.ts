@@ -1,0 +1,67 @@
+export const palette = {
+  primary: {
+    lighter: "#ffdcd1",
+    light: "#ED6D45",
+    main: "#E94816",
+    dark: "#892A0D",
+    darker: "#6E220A",
+  },
+  secondary: {
+    lighter: "#9DA7DE",
+    light: "#707FCF",
+    main: "#3F4FA2",
+    dark: "#2D3873",
+    darker: "#242D5C",
+  },
+  success: {
+    lighter: "#8CB88E",
+    light: "#58975B",
+    main: "#26682A",
+    dark: "#1B4A1E",
+    darker: "#102C12",
+  },
+  error: {
+    lighter: "#E78D8D",
+    light: "#C82D2D",
+    main: "#d32f2f",
+    dark: "#7C1C1C",
+    darker: "#631616",
+  },
+  warning: {
+    lighter: "#F5AE74",
+    light: "#F18935",
+    main: "#ed6c02",
+    dark: "#8C4001",
+    darker: "#6F3301",
+  },
+  info: {
+    lighter: "#74BEE6",
+    light: "#35A0DA",
+    main: "#0271AD",
+    dark: "#01507B",
+    darker: "#014062",
+  },
+  text: {
+    primary: "#2E3444",
+    secondary: "#1D1B20",
+    disabled: "#8590AD",
+    light: "#FFFFFF",
+    dark: "#15171E",
+  },
+  background: {
+    paper: "#ffffff",
+    default: "#F0F1F5",
+  },
+  common: {
+    black: "#000000",
+    white: "#ffffff",
+  },
+  border: "#A0A1A6",
+  gray: {
+    lighter: "#EFF0F3",
+    light: "#C2C7D6",
+    main: "#BBBCC2",
+    dark: "#85868A",
+    darker: "#4F4F52",
+  },
+};
